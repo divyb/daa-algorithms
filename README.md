@@ -1,1 +1,21 @@
-# Design and Analysis of Algorithms (Semester 5)\r\n\r\nAlgorithm implementations and analyses from Semester 5.\r\n\r\n## Tech Stack\r\n- C/C++ / Java / Python\r\n- Jupyter Notebook (where applicable)\r\n\r\n## Skills Demonstrated\r\n- Asymptotic analysis and complexity reasoning\r\n- Greedy, divide-and-conquer, dynamic programming\r\n- Graph algorithms, shortest paths, MST\r\n- Backtracking and optimization\r\n\r\n## Structure\r\n- src/: Implementations organized by topic/experiment\r\n
+# Design and Analysis of Algorithms (Semester 5)
+
+Implementations and analyses of algorithms from Semester 5 coursework.
+
+---
+
+## 🚀 Tech Stack
+- **C / C++ / Java / Python**
+- **Jupyter Notebook** (where applicable)
+
+---
+
+## 🧩 Skills Demonstrated
+- **Asymptotic analysis** and complexity reasoning  
+- **Greedy, Divide-and-Conquer, Dynamic Programming**  
+- **Graph algorithms**: shortest paths, MST  
+- **Backtracking** and optimization techniques  
+
+---
+
+## 📂 Repository Structure
