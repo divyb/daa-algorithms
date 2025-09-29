@@ -1,0 +1,1 @@
+build/\r\n*.o\r\n*.out\r\n*.exe\r\n*.obj\r\n*.log\r\n__pycache__/\r\n*.pyc\r\n.ipynb_checkpoints/\r\n.DS_Store\r\nThumbs.db\r\n.vscode/\r\n.idea/\r\n*.iml\r\n
